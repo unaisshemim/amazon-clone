@@ -1,0 +1,31 @@
+.product-cart {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 10px 0 10px 0;
+}
+
+.product-cart .cart-img {
+  -o-object-fit: contain;
+     object-fit: contain;
+  width: 180px;
+  height: 180px;
+}
+
+.product-cart .product-cart-info {
+  padding: 20px;
+}
+
+.product-cart .product-cart-info p {
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.product-cart .product-cart-info button {
+  margin-top: 30px;
+  background-color: rgba(240, 219, 29, 0.897);
+  color: black;
+  border: 1px solid black;
+  cursor: pointer;
+}
+/*# sourceMappingURL=productcart.css.map */

@@ -1,0 +1,24 @@
+.checkout-page{
+    
+   .checkout-info{
+display: flex;
+background-color: #fff;
+height: max-content;
+
+       .checkout-left{
+           
+           
+           .ad-image{
+               width:100%;
+               height: 250px;
+               object-fit:cover;
+               
+               
+               
+            }
+        }
+        .checkout-right{
+            padding: 20px;
+        }
+    }
+}
